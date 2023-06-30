@@ -1,0 +1,262 @@
+.wrap{
+    height:200px;
+    width:200px;
+    border:13px solid darkred;
+    margin:auto;
+    left:0;
+    right:0;
+    top:0; 
+    bottom:0; 
+    background-color: burlywood;
+    position: absolute;
+    
+  }
+  
+  .box1{
+    height:15px;
+    width:15px;
+    border:1px solid black;
+    background-color: black;
+    border-radius:50%;
+    position: absolute;
+    margin: 0px;
+    left:0;
+    top:0;
+    
+  }
+  .box2{
+    height:15px;
+    width:15px;
+    border:1px solid black;
+    background-color: black;
+    border-radius:50%;
+    position: absolute;
+    margin: 0px;
+    top:0;
+    right:0;
+    
+  }
+  .box3{
+    height:15px;
+    width:15px;
+    border:1px solid black;
+    background-color: black;
+    border-radius:50%;
+    position: absolute;
+    margin: 0px;
+    left:0;
+    bottom:0;
+    
+  }
+  .box4{
+    height:15px;
+    width:15px;
+    border:1px solid black;
+    background-color: black;
+    border-radius:50%;
+    position: absolute;
+    margin: 0px;
+    right:0;
+    bottom:0;
+    
+  }
+  .circle1{
+    height:40px;
+    width:40px;
+    border:1px solid red;
+    background-color: black;
+    margin:auto;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+   position: absolute;
+    border-radius:50%;
+
+  }
+  .circle2{
+    height:35px;
+    width:35px;
+    border:1px solid red;
+    background-color: red;
+    margin:auto;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+   position: absolute;
+    border-radius:50%;
+  }
+  .circle3{
+    height:30px;
+    width: 30px;
+    border:1px solid red;
+    background-color: black;
+    margin:auto;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+   position: absolute;
+    border-radius:50%;
+  }
+  .circle4{
+    height:25px;
+    width:25px;
+    border:1px solid red;
+    background-color: red;
+    margin:auto;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+   position: absolute;
+    border-radius:50%;
+  }
+  .circles{
+    height:20px;
+    width:20px;
+    border:1px solid red;
+    background-color: black;
+    margin:auto;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+   position: absolute;
+    border-radius:50%;
+  }
+  .rect1{
+    height:12px;
+    width:105px;
+    border:2px solid black;
+    border-radius:20%;
+    position: absolute;
+    bottom:25px;
+    left:45px;
+  }
+  .rect2{
+      height:12px;
+      width:105px;
+      border:2px solid black;
+      border-radius:20%;
+      position: absolute;
+      top: 25px;
+      right:45px;
+  }
+  .rect3{
+    height:105px;
+    width:12px;
+    border:2px solid black;
+    border-radius:20%;
+    position: absolute;
+    left: 20px;
+    bottom:45px;
+  }
+  .rect4{
+    height:105px;
+    width:12px;
+    border:2px solid black;
+    border-radius:20%;
+    position: absolute;
+    right: 20px;
+    bottom:45px;
+  }
+  .circle5{
+    height:12px;
+    width:12px;
+    border: 1px solid red;
+    background-color: red;
+    margin:auto;
+    right:21px;
+    top:99px;
+    bottom:0;
+   position: absolute;
+    border-radius:50%;
+  }  
+  .circle6{
+    height:12px;
+    width:12px;
+    border:1px solid red;
+    background-color: red;
+    margin:auto;
+    left:21px;
+    top:99px;
+    bottom:0;
+   position: absolute;
+    border-radius:50%;
+  }  
+  .circle7{
+    height:12px;
+    width:12px;
+    border:1px solid red;
+    background-color: red;
+    margin:auto;
+    right:21px;
+    bottom:99px;
+    top:0px;
+   position: absolute;
+    border-radius:50%;
+  }  
+  .circle8{
+    height:12px;
+    width:12px;
+    border:1px solid red;
+    background-color: red;
+    margin:auto;
+    left:21px;
+    bottom:97px;
+    top:0px;
+   position: absolute;
+    border-radius:50%;
+  }  
+  .circle9{
+    height:12px;
+    width:12px;
+    border:1px solid red;
+    background-color: red;
+    margin:auto;
+    bottom:26px;
+    left:98px;
+    right:0px;
+   position: absolute;
+    border-radius:50%;
+  }  
+  .circle10{
+    height:12px;
+    width:12px;
+    border:1px solid red;
+    background-color: red;
+    margin:auto;
+    top:26px;
+    left:143px;
+   position: absolute;
+    border-radius:50%;
+  }  
+  .circle11{
+    height:12px;
+    width:12px;
+    border:1px solid red;
+    background-color: red;
+    margin:auto;
+    top:161px;
+    left:42px;
+   position: absolute;
+    border-radius:50%;
+  }  
+  .circle12{
+    height:12px;
+    width:12px;
+    border:1px solid red;
+    background-color: red;
+    margin:auto;
+    right:142px;
+    top:26px;
+
+   position: absolute;
+    border-radius:50%;
+  }  
+  .total{
+    background-color:slategray;
+  }
+  
